@@ -1,5 +1,6 @@
 # Sleep_Health_Project
-Summary:
+# Summary:
+
 This dataset analysis highlights significant correlations between sleep quality, lifestyle factors, and cardiovascular health across different demographics and occupations. Key findings include:
 
 Sleep Disorders: Sleep disorders, including insomnia and sleep apnea, are prevalent among various demographic groups. Females, particularly those aged 50-59, have a high prevalence of sleep apnea (87%), while a significant proportion of males (53%) suffer from insomnia. Sleep quality varies by occupation, with Engineers, Lawyers, Nurses, Accountants, and Doctors reporting the highest sleep quality.
